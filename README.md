@@ -1,8 +1,6 @@
 # awesome-wireless-communications
 
-A curated list for learning wireless communications.
-
-Read **Start here** first. After that, use the list as a reference.
+A curated list for learning wireless communications. The goal is this repo to serve both as a reference and as a "roadmap" from the basics of wireless communications to current frontier.
 
 ## Contents
 
@@ -39,15 +37,17 @@ The introduction
 ## Error correction codes
 
 ## MIMO, mMIMO, XL-MIMO, CF-MIMO, HMIMO
+1. [MIMO Wireless Communication](https://archive.ll.mit.edu/publications/journal/pdf/vol15_no1/15_1mimo.pdf) - A survey about the environmental factors that affect MIMO capacity
+2. [Massive MIMO Networks: Spectral, Energy, and Hardware Efficiency](https://massivemimobook.com/wp/free-pdf/) - A complete book on mMIMO. In the respective website one can find simulation code too.
+3. [A Tutorial on Near-Field XL-MIMO Communications Towards 6G](https://arxiv.org/html/2310.11044v3) - A thorough overview of Near-Field XL-MIMO Communications
 
 ## IRS, RIS, LIS
-
-## 
 
 ## Hands on
 1. [Deep MIMO](https://www.deepmimo.net/) - Deep MIMO dataset and scenarios
 2. [Sionna library](https://developer.nvidia.com/sionna) - NVIDIA GPU-accelerated open-source library for research in communication systems
 3. [NeoRadium](https://github.com/InterDigitalInc/NeoRadium) - Python library for simulating end-to-end wireless communication systems based on the latest 3GPP 5G NR standards
+4. [Emil Björnson's GitHub](https://github.com/emilbjornson) - Professor Emil Björnson has the richest GitHub page regarding cutting edge research on wireless communications
 
 ## Frontier
 
