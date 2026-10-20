@@ -28,6 +28,7 @@ The introduction
 ## Fundamentals of wireless communications
 
 - [Wireless Communications](https://web.stanford.edu/class/ee359/doc/WirelessComm_Chp1-16_March32020.pdf) - Wireless Communications by Andrea Goldsmith
+- [Digital Communications](https://daskalakispiros.com/files/Ebooks/digital-communication-proakis-salehi-5th-edition.pdf) - Digital Communications by Proakis and Salehi
 
 ## Antennas
 
