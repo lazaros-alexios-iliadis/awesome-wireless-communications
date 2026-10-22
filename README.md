@@ -11,6 +11,7 @@ A curated list for learning wireless communications. The goal is this repo to se
 - [Error correction codes](#error-correction-codes)
 - [MIMO, mMIMO, XL-MIMO, CF-MIMO, HMIMO](#mimo-mmimo-xl-mimo-cf-mimo-hmimo)
 - [IRS, RIS, LIS](#irs-ris-lis)
+- [Simulation Tools](#simulation-tools)
 - [Hands on](#hands-on)
 - [Frontier](#frontier)
 - [Podcasts, Blogs, etc](#podcasts-blogs-etc)
@@ -31,6 +32,7 @@ The introduction
 3. [Digital Communications](https://daskalakispiros.com/files/Ebooks/digital-communication-proakis-salehi-5th-edition.pdf) - Digital Communications by Proakis and Salehi
 
 ## Antennas
+[Back to Basics: Introduction to Antenna Theory and Antenna Measurement Fundamentals](https://www.keysight.com/us/en/assets/9018-07603/seminar-materials/9018-07603.pdf) -  Measurement fundamentals of antenna theory and technology
 
 ## RF engineering
 
@@ -43,11 +45,14 @@ The introduction
 
 ## IRS, RIS, LIS
 
+## Software tools
+
 ## Hands on
 1. [Deep MIMO](https://www.deepmimo.net/) - Deep MIMO dataset and scenarios
 2. [Sionna library](https://developer.nvidia.com/sionna) - NVIDIA GPU-accelerated open-source library for research in communication systems
 3. [NeoRadium](https://github.com/InterDigitalInc/NeoRadium) - Python library for simulating end-to-end wireless communication systems based on the latest 3GPP 5G NR standards
 4. [Emil Björnson's GitHub](https://github.com/emilbjornson) - Professor Emil Björnson has the richest GitHub page regarding cutting edge research on wireless communications
+5. [How to Design an Antenna That Actually Works](https://www.fedevel.com/blog/how-to-design-an-antenna-that-actually-works-all-steps-explained) - Good example of antenna design using CST
 
 ## Frontier
 
